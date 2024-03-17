@@ -1,0 +1,1 @@
+The files uploaded contain a project in R for the time series analysis of shampoo data. Running the Rproj file will open up the project in R. The html file contains the output of the finished project. 
